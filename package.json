@@ -1,0 +1,14 @@
+{
+  "name": "mattfreelanceweb",
+  "version": "1.0.0",
+  "description": "![Texte alternatif](https://media.licdn.com/dms/image/D4E16AQGDi2ws7qiQZA/profile-displaybackgroundimage-shrink_350_1400/0/1674221879857?e=1694044800&v=beta&t=P68qIs9V6ba0HlWHrCC8tczC9LprqDXaKpg-5IW2gtU)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
