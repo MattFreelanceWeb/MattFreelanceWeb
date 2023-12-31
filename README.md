@@ -2,7 +2,7 @@
 # hi there! I'm Matt 👋
 
 Quote of the day: 
->You are never too old to set another goal or to dream a new dream. -C.S. Lewis
+>Your time is limited, don&#39;t waste it living someone else&#39;s life. -Steve Jobs
 
 ![Texte alternatif](https://media.licdn.com/dms/image/D4E16AQGDi2ws7qiQZA/profile-displaybackgroundimage-shrink_350_1400/0/1674221879857?e=1694044800&v=beta&t=P68qIs9V6ba0HlWHrCC8tczC9LprqDXaKpg-5IW2gtU)
 
