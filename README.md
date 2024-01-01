@@ -43,7 +43,7 @@ Quote of the day:
 
 ## Professional Experience ⌛
 
-I have been working as a front-end web developer for **4 years**, with a particular expertise in JavaScript, Typescript, React, Next.js, and Tailwind CSS.
+I have been working as a front-end web developer for **5 years**, with a particular expertise in JavaScript, Typescript, React, Next.js, and Tailwind CSS.
 
 ## Passion and Goal ❤️🌟
 
