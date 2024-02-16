@@ -2,7 +2,7 @@
 # hi there! I'm Matt 👋
 
 Quote of the day: 
->Your time is limited, don&#39;t waste it living someone else&#39;s life. -Steve Jobs
+>Success is not final, failure is not fatal: It is the courage to continue that counts. -Winston Churchill
 
 ![Texte alternatif](https://media.licdn.com/dms/image/D4E16AQGDi2ws7qiQZA/profile-displaybackgroundimage-shrink_350_1400/0/1674221879857?e=1694044800&v=beta&t=P68qIs9V6ba0HlWHrCC8tczC9LprqDXaKpg-5IW2gtU)
 
